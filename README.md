@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andi Azamuddin bin Andianwar
 - 👀 I’m interested in data analyst, programming
-- 🌱 I’m currently learning JavaScript, Java, Python, Tableau, PowerBI
+- 🌱 I’m currently learning JavaScript, Java, Python, PowerBI, Kotlin
 - 📫 How to reach me; Email- andiazamuddin@gmail.com
 
 <!---
