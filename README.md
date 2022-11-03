@@ -2,8 +2,6 @@
 <img alt="img" src="https://c.tenor.com/KywF5hgM9g4AAAAC/cat-coding.gif" width="300" height="200" />
 </p>
 
----
-
 #### 😎 ABOUT ME
 
 <!--I'm **Andi** the Self-taught programmer. I'm a full time **System Engineer** at FNS(M) SDN BHD based in Kuala Lumpur, Malaysia experience in developing both websites //and mobile applications that uses Blockchain-system Secure Authentication. I've always facinated by modern technologies so I'm here to explore all kinds of it! 
