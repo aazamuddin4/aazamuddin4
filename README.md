@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="img" src="https://c.tenor.com/KywF5hgM9g4AAAAC/cat-coding.gif" width="600" height="400" />
+<img alt="img" src="https://c.tenor.com/KywF5hgM9g4AAAAC/cat-coding.gif" width="300" height="200" />
 </p>
 
 ---
