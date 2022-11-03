@@ -14,10 +14,13 @@
 #### 📶 MY STATS
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aazamuddin4&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazamuddin4&layout=compact&theme=cobalt&hide_border=true" />
+<img src="https://i.gifer.com/origin/5a/5acfe63011eade003edd611df1ec0f9e_w200.gif" />
 </p>
-
+<p>
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=aazamuddin4&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazamuddin4&layout=compact&theme=cobalt&hide_border=true" />
+</p>
+ 
 ---
 
 #### 💻 RECENT PROJECTS
