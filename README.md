@@ -25,6 +25,9 @@
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aazamuddin4&repo=rest-api-with-local-database&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aazamuddin4&repo=web-dev-using-gatsbyjs&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aazamuddin4&repo=Spring-Boot-Project&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+ <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aazamuddin4&repo=ASP.NET-5.0-Retrieving-Data&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+ <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aazamuddin4&repo=Data-Mining-with-Python&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+ <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aazamuddin4&repo=Games-with-Python&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </p>
  
 ---
