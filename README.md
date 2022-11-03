@@ -1,4 +1,4 @@
-<img alt="img" src="https://c.tenor.com/KywF5hgM9g4AAAAC/cat-coding.gif" width="auto" height="auto" />
+<img align="center" alt="img" src="https://c.tenor.com/KywF5hgM9g4AAAAC/cat-coding.gif" width="auto" height="auto" />
 - 👋 Hi, I’m Andi Azamuddin bin Andianwar
 - 👀 I’m interested in data analyst, programming
 - 🌱 I’m currently learning JavaScript, Java, Python, PowerBI, Kotlin
