@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="img" src="https://c.tenor.com/KywF5hgM9g4AAAAC/cat-coding.gif" width="300" height="200" />
+<img alt="img" src="https://c.tenor.com/KywF5hgM9g4AAAAC/cat-coding.gif" width="500" height="300" />
 </p>
 
 #### 😎 ABOUT ME
@@ -14,7 +14,7 @@
 #### 📶 MY STATS
 
 <p>
-<img src="https://i.gifer.com/origin/5a/5acfe63011eade003edd611df1ec0f9e_w200.gif" />
+<img src="https://i.pinimg.com/originals/41/5a/82/415a823171c72b69b927de7ba309d51f.gif" width="1000" height="500"/>
 </p>
 <p>
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=aazamuddin4&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
@@ -24,6 +24,9 @@
 ---
 
 #### 💻 RECENT PROJECTS
+<p>
+<img src="https://c.tenor.com/2rbXXbmEAjMAAAAd/fsociety-code.gif" width="1000" height="500"/>
+</p>
 <p>
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aazamuddin4&repo=rest-api-with-local-database&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aazamuddin4&repo=web-dev-using-gatsbyjs&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
@@ -40,6 +43,7 @@
 <img align="right" width="30%" src="https://i.pinimg.com/originals/e4/3b/30/e43b30464e7f8dfd8af62ab84909f436.png">
 
 - Web Dev
+
 <p>
 <img width="3%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img width="3%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
@@ -73,8 +77,9 @@
 
 #### 🎮 HOBBIES
 
+
 * Gaming <img width="4%" alt="img" src="https://logos-world.net/wp-content/uploads/2020/12/Dota-2-Logo.png" />
-* Watching Netflix <img width="2%" alt="img" src="https://www.vectorlogo.zone/logos/netflix/netflix-icon.svg" />
+* Watching Netflix <img width="2%" alt="img" src="https://www.vectorlogo.zone/logos/netflix/netflix-icon.svg" /> 
 * Outdoor sports <img width="1.5%" alt="img" src="https://www.pngfind.com/pngs/m/661-6617189_futsal-vector-png-transparent-png.png" />
 
 <p align="center">
