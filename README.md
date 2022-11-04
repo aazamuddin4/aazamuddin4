@@ -14,7 +14,7 @@
 #### 📶 MY STATS
 
 <p>
-<img src="https://i.pinimg.com/originals/41/5a/82/415a823171c72b69b927de7ba309d51f.gif" width="1000" height="500"/>
+<img src="https://i.pinimg.com/originals/41/5a/82/415a823171c72b69b927de7ba309d51f.gif" width="1000" height="200"/>
 </p>
 <p>
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=aazamuddin4&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
@@ -25,7 +25,7 @@
 
 #### 💻 RECENT PROJECTS
 <p>
-<img src="https://c.tenor.com/2rbXXbmEAjMAAAAd/fsociety-code.gif" width="1000" height="500"/>
+<img src="https://c.tenor.com/2rbXXbmEAjMAAAAd/fsociety-code.gif" width="1000" height="300"/>
 </p>
 <p>
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aazamuddin4&repo=rest-api-with-local-database&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
