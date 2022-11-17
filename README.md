@@ -28,7 +28,7 @@
 <p>
 
  
-<img src="https://raw.githubusercontent.com/aazamuddin4/aazamuddin4/output/github-contribution-grid-snake.gif" width="600" height="200"/>
+![snake gif](https://github.com/aazamuddin4/aazamuddin4/blob/output/github-contribution-grid-snake.gif)
 
 </p>
 <p>
