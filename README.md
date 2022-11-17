@@ -14,7 +14,8 @@
 #### 📶 MY STATS
 
 <p>
-<img src="https://i.pinimg.com/originals/41/5a/82/415a823171c72b69b927de7ba309d51f.gif" width="1000" height="200"/>
+<img src="https://i.pinimg.com/originals/41/5a/82/415a823171c72b69b927de7ba309d51f.gif" width="300" height="200"/>
+ <img src="https://i.pinimg.com/originals/41/5a/82/415a823171c72b69b927de7ba309d51f.gif" width="300" height="200"/>
 </p>
 <p>
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=aazamuddin4&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
@@ -26,8 +27,8 @@
 #### 💻 RECENT PROJECTS
 <p>
 
- ![snake gif]
- (https://github.com/aazamuddin4/aazamuddin4/blob/output/github-contribution-grid-snake.gif)
+ 
+<img src="https://raw.githubusercontent.com/aazamuddin4/aazamuddin4/output/github-contribution-grid-snake.gif" width="850" height="200"/>
 
 </p>
 <p>
