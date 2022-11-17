@@ -27,7 +27,7 @@
 <p>
 
  
-![GitHub Snake dark](https://github.com/aazamuddin4/aazamuddin4/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/aazamuddin4/aazamuddin4/blob/output/github-contribution-grid-snake.svg)
 
 </p>
 <p>
